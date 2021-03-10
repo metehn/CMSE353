@@ -1,0 +1,1 @@
+We used intellij IDE, mysql for database. We couldn't put mysql-connector file, it is necessary to run the program. We couldn't put java-fx library folder also it is necessary to run the program. And we used jdk15 we couldn't put it into file as well.CMSE353 folder includes codes.
