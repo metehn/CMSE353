@@ -1,1 +1,7 @@
-We used intellij IDE, mysql for database. We couldn't put mysql-connector file, it is necessary to run the program. We couldn't put java-fx library folder also it is necessary to run the program. And we used jdk15 we couldn't put it into file as well.CMSE353 folder includes codes.
+Stuffs that i used in this project mentioned below. You can look this website for setting javafx up -> https://openjfx.io/openjfx-docs/
+
+*Intejjil IDE
+*Mysql 8.0.22 (mysql connector required depending version of database, they should be same version.)
+*JDK 15
+*JavaFx 11.0.2
+*You can use Scene Builder to manage fxml files easily.
