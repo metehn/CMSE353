@@ -6,4 +6,6 @@ Stuffs that i used in this project mentioned below. You can look this website fo
 *JavaFx 11.0.2
 *You can use Scene Builder to manage fxml files easily.
 
-
+![](images/1.PNG)
+![](images/2.PNG)
+![](images/3.PNG)
